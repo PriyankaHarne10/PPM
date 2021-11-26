@@ -1,0 +1,8 @@
+C:\Users\W10\source\repos\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\W10\source\repos\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\W10\source\repos\DataLogic\bin\Debug\BusinessLogic.dll
+C:\Users\W10\source\repos\DataLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\W10\source\repos\DataLogic\obj\Debug\DataLogic.csproj.AssemblyReference.cache
+C:\Users\W10\source\repos\DataLogic\obj\Debug\DataLogic.csproj.CoreCompileInputs.cache
+C:\Users\W10\source\repos\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\W10\source\repos\DataLogic\obj\Debug\DataLogic.pdb

@@ -1,0 +1,12 @@
+C:\Users\W10\source\repos\ProlificsProjectManagement_2\bin\Debug\ProlificsProjectManagement_2.exe.config
+C:\Users\W10\source\repos\ProlificsProjectManagement_2\bin\Debug\ProlificsProjectManagement_2.exe
+C:\Users\W10\source\repos\ProlificsProjectManagement_2\bin\Debug\ProlificsProjectManagement_2.pdb
+C:\Users\W10\source\repos\ProlificsProjectManagement_2\bin\Debug\BusinessLogic.dll
+C:\Users\W10\source\repos\ProlificsProjectManagement_2\bin\Debug\BusinessLogic.pdb
+C:\Users\W10\source\repos\ProlificsProjectManagement_2\obj\Debug\ProlificsProjectManagement_2.csproj.AssemblyReference.cache
+C:\Users\W10\source\repos\ProlificsProjectManagement_2\obj\Debug\ProlificsProjectManagement_2.csproj.CoreCompileInputs.cache
+C:\Users\W10\source\repos\ProlificsProjectManagement_2\obj\Debug\ProlificsProjectManagement_2.exe
+C:\Users\W10\source\repos\ProlificsProjectManagement_2\obj\Debug\ProlificsProjectManagement_2.pdb
+C:\Users\W10\source\repos\ProlificsProjectManagement_2\bin\Debug\DataLogic.dll
+C:\Users\W10\source\repos\ProlificsProjectManagement_2\bin\Debug\DataLogic.pdb
+C:\Users\W10\source\repos\ProlificsProjectManagement_2\obj\Debug\ProlificsProjectManagement_2.csproj.CopyComplete

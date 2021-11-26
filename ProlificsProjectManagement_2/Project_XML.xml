@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProjectModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectModel>
+    <ProjectEmployeesList />
+    <ProjectId>2</ProjectId>
+    <ProjectName>VMS</ProjectName>
+    <StartDate>2005-05-05T00:00:00</StartDate>
+    <EndDate>2005-05-05T00:00:00</EndDate>
+  </ProjectModel>
+</ArrayOfProjectModel>

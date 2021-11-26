@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployeeModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmployeeModel>
+    <role>
+      <roleId>5</roleId>
+      <roleName>HR</roleName>
+    </role>
+    <empolyeeId>5</empolyeeId>
+    <firstName>ABOLI</firstName>
+    <lastName>GHADWE</lastName>
+    <emailID>AG</emailID>
+    <phoneNo>9854124578</phoneNo>
+    <address>PIUNE</address>
+  </EmployeeModel>
+</ArrayOfEmployeeModel>
